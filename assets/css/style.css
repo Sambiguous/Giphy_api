@@ -10,3 +10,13 @@
 .topic_button:hover {
     background-color: rgb(142, 151, 151);
 }
+
+.gif{
+/*  */
+}
+
+.frame {
+    margin: 5px;
+    display: inline-block;
+    border: 1px solid black;
+}
